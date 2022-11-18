@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slflood
 - 👀 I’m interested in using machine learning to predict ecosystem disrupting algal blooms and to identify key biotic and abiotic factors associated with bloom terminiation.
-- 🌱 I’m currently learning TensorFlow 
-- 💞️ I’m looking to collaborate on using spatial statistics and AI to describe coastal ecosystem features.
+- 🌱 I’m currently learning Julia
+- 💞️ I’m looking to collaborate on using spatial statistics and AI to describe coastal ecosystem ecological dynamics.
 - 📫 email away to stacie.flood@gmail.com
 
 <!---
