@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @slflood
-- 👀 I’m interested in prediction of phytoplankton dynamics and modeling factors associated with bloom persistence, termination and potential for toxicity
+- 👋 Hi, I’m Stacie Flood, aquatic ecologist @SFWMD
+- 👀 I’m interested in prediction of phytoplankton dynamics and modeling biogeochemical factors associated with bloom persistence, termination and ecological interactions influencing potential toxicity
 - 🌎 I am using Google Earth Engine and Remote Sensing tools
 - 🌱 I’m currently learning Python and Julia
 - 💞️ I’m looking to collaborate on using spatial statistics and ML to describe coastal ecosystem ecological dynamics
